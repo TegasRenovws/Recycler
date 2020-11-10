@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RecyclerViewKu</string>
+    
+    <string name="heroes_name">Nama Hero</string>
+    <string name="description">Deskripsi</string>
+    
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with Cardview</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    
+    <string-array name="data_name">
+        <item>Nakroth</item>
+        <item>Zephys</item>
+        <item>Maloch</item>
+        <item>Volkath</item>
+        <item>Hayate</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Nakroth mengabdi sebagai the Arbiter of Souls di neraka. Pangeran atau orang miskin, pendosa atau orang suci, semuanya harus menghadapi pengadilan sebelum melanjutkan perjalanan ke alam baka.</item>
+        <item>Beberapa budaya mengisahkan cerita malaikat maut atau Valkyrie yang datang untuk menuntun roh orang mati ke alam baka. Namun, Lord Zephys lah yang mengantar roh ke daerah kekuasaan Valkyrie di bawah angin barat yang dingin.</item>
+        <item>Dari neraka terdalam tempat penyiksaan dan penderitaan abadi, Maloch bangkit menjadi penguasa Ravenors.</item>
+        <item>At the peak of Mt. Orphean, a young boy with golden hair and crimson eyes asked his teacher. The teacher put down his book sand smiled, "True freedom is not to do whatever you want; it is to be able to refuse what you do not want to do."</item>
+        <item>Rauman naga yang memekakkan telinga disertai sosoknya yang menakutkan, membekukan Hayate, bayangannya merayap layaknya ular di balik nyala lilin.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://web.cdn.id.garenanow.com/webid/AOV/icon_nakroth_base.jpg</item>
+        <item>https://web.cdn.id.garenanow.com/webid/AOV/Icon_Zephys.png</item>
+        <item>https://web.cdn.id.garenanow.com/webid/AOV/icon-dreadwyrm-maloch.jpg</item>
+        <item>https://storage.support.garena.co.id/media/repository/AOV/Website%20Heroes/Volkath_icon.jpg</item>
+        <item>https://storage.support.garena.co.id/media/repository/AOV/Website%20Heroes/Hayate_Icon.jpg</item>
+    </string-array>
+    
+</resources>
